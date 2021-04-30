@@ -9,8 +9,8 @@
     "coveralls": "nyc report --reporter=text-lcov | coveralls",
     "lint": "eslint ./"
   },
-  "author": "Atlantis Software",
-  "license": "MIT",
+  "author": "MichaelDevC",
+  "license": "GNU General Public License v3.0",
   "dependencies": {
     "crc": "~3.8.0",
     "js-yaml": "~3.14.0",
@@ -28,10 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Atlantis-Software/node-turn.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Atlantis-Software/node-turn/issues"
-  },
-  "homepage": "https://github.com/Atlantis-Software/node-turn#readme"
+    "url": "git+https://github.com/MichaelDevC/node-turn.git"
+  }
+  "homepage": "https://github.com/MichaelDevC/node-turn/#readme"
 }
